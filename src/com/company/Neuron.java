@@ -1,7 +1,6 @@
 package com.company;
 
 import java.util.ArrayList;
-import java.util.Random;
 
 public class Neuron {
     private ArrayList<Double> weight; // neuron input weights or synaptic connections
